@@ -14,7 +14,7 @@ Linux | ~/.local/share/Tabletop Simulator
 
 System | Location
 -- | --
-Windows | %USERPROFILE%\Documents\My Games\Tabletop Simulator
+Windows | %USERPROFILE%\Documents\My Games\Tabletop Simulator or %USERPROFILE%\OneDrive\Apps\Email\Documents\My Games\Tabletop Simulator if logged in to a Microsoft account
 macOS (OS X) | ~/Library/Tabletop Simulator
 Linux | ~/.local/share/Tabletop Simulator
 
